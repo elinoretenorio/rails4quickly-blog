@@ -33,7 +33,8 @@ group :test, :development do
     gem 'factory_girl'
     gem 'launchy'
     gem 'rspec-rails'
-    gem 'shoulda-matchers'
+    gem 'quiet_assets'
+    gem 'shoulda'
     gem 'valid_attribute'
     gem 'pry-rails'
 end
